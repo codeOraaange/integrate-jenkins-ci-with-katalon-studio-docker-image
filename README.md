@@ -1,0 +1,1 @@
+# integrate-jenkins-ci-with-katalon-studio-docker-image
